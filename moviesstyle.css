@@ -1,7 +1,13 @@
 .bff {
   font-family: serif;
   color: white;
+  font-size: 20px
 }
 .link {
   text-decoration: underline;
+}
+.head{
+  text-align: center;
+  font-size: 65px;
+  font-family: fantasy;
 }
