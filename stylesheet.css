@@ -16,3 +16,14 @@ font-style: oblique;
 body{
 background-image: url("bg2.jpg");
 }
+.col-md-4{
+
+  color:white;
+  font-family:serif;
+  font-size: 30px;
+}
+.lol {
+color: #610B4B;
+text-decoration: underline
+}
+}
