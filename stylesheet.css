@@ -1,8 +1,18 @@
 #teen {
-text-decoration:italic;
+color:#CEF6F5;
 }
 #heading{
 font-size:80px;
 font-family:fantasy;
 font-style: oblique;
+}
+.jumbotron {
+  color:#6A0888;
+  background-color:#F79F81;
+}
+.nav {
+  background-color: #CEF6EC;
+}
+body{
+background-image: url("bg2.jpg");
 }
