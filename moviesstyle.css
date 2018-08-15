@@ -1,11 +1,10 @@
 .bff {
   font-family: serif;
   color: white;
-<<<<<<< HEAD
+
 
 =======
-  font-size: 20px
->>>>>>> 610d2b183e5af962f53733d281c9ee2c53f88457
+  font-size: 25px
 }
 .link {
   text-decoration: underline;
@@ -15,3 +14,4 @@
   font-size: 65px;
   font-family: fantasy;
 }
+#intro { font-size: 18px;}
