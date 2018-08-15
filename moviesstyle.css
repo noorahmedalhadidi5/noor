@@ -1,8 +1,17 @@
 .bff {
   font-family: serif;
   color: white;
+<<<<<<< HEAD
 
+=======
+  font-size: 20px
+>>>>>>> 610d2b183e5af962f53733d281c9ee2c53f88457
 }
 .link {
   text-decoration: underline;
+}
+.head{
+  text-align: center;
+  font-size: 65px;
+  font-family: fantasy;
 }
